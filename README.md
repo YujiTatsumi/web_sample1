@@ -1,3 +1,3 @@
 # web_sample1
-practicing uploading to github
+my official website tentative
 20240914
